@@ -1,0 +1,1567 @@
+T우리아기뚝!
+v7
+r0
+t335804097.840345
+cCheck dependencies
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/Info.plist BabyCry-Info.plist
+cCompileXIB /Users/koke007/Desktop/BabyCry/MainWindow.xib
+cCompileXIB /Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/background.jpg background.jpg
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babycry.png babycry.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babysleep.png babysleep.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/button1.png button1.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanoff.png cleanoff.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanon.png cleanon.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryoff.png dryoff.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryon.png dryon.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song1.png song1.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song2.png song2.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song3.png song3.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cloud.png cloud.png
+cCompileXIB /Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry1.png cry1.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry2.png cry2.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry3.png cry3.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep1.png sleep1.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep2.png sleep2.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep3.png sleep3.png
+cCompileXIB /Users/koke007/Desktop/BabyCry/View1.xib
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/baby.png baby.png
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/clean.wav clean.wav
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/dry.wav dry.wav
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon114.png icon114.png
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/pong.wav pong.wav
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep1.mp3 sleep1.mp3
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep2.mp3 sleep2.mp3
+cCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep3.mp3 sleep3.mp3
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/duk.png duk.png
+cCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon57.png icon57.png
+cProcessPCH /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch.gch BabyCry_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch.gch BabyCry_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/main.o /Users/koke007/Desktop/BabyCry/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝! normal armv6
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/main.o /Users/koke007/Desktop/BabyCry/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝! normal armv7
+cCreateUniversalBinary /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝! normal "armv6 armv7"
+cGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!
+cProcessProductPackaging "/Users/koke007/Library/MobileDevice/Provisioning Profiles/B63B921A-5B58-4A10-8DEA-193AFB7305A3.mobileprovision" /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/embedded.mobileprovision
+cTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent
+cCodeSign /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC10EB60000000000000A23
+t1287720630
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/koke007/Desktop/BabyCry/BabyCry_Prefix.pch
+c000000004E1FBF6D00000000000000B7
+t1310703469
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.h
+c000000004E53305700000000000001F8
+t1314074711
+s504
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m
+c000000004E5330670000000000000BED
+t1314074727
+s3053
+i"BabyCryAppDelegate.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/MainViewController.h
+c000000004E5386220000000000000194
+t1314096674
+s404
+i<UIKit/UIKit.h>
+i"SubViewController.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m
+c000000004E53862B0000000000000918
+t1314096683
+s2328
+i"MainViewController.h"
+i"BabyCryAppDelegate.h"
+i"View1.h"
+
+N/Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib
+c000000004E532F00000000000000691E
+t1314074368
+s26910
+
+N/Users/koke007/Desktop/BabyCry/Classes/SubViewController.h
+c000000004E53B9AB000000000000041A
+t1314109867
+s1050
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m
+c000000004E53BAF80000000000002B09
+t1314110200
+s11017
+i"SubViewController.h"
+i"BabyCryAppDelegate.h"
+
+N/Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib
+c000000004E53BABD0000000000009511
+t1314110141
+s38161
+
+N/Users/koke007/Desktop/BabyCry/MainWindow.xib
+c000000004E1FC4670000000000005FD1
+t1310704743
+s24529
+
+N/Users/koke007/Desktop/BabyCry/View1.h
+c000000004E53549D00000000000000FA
+t1314083997
+s250
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/View1.m
+c000000004E5331DC0000000000000734
+t1314075100
+s1844
+i"View1.h"
+i"BabyCryAppDelegate.h"
+
+N/Users/koke007/Desktop/BabyCry/View1.xib
+c000000004E539E5700000000000066A1
+t1314102871
+s26273
+
+N/Users/koke007/Desktop/BabyCry/baby.png
+c000000004E53277300000000000044A7
+t1314072435
+s17575
+
+N/Users/koke007/Desktop/BabyCry/babycry.png
+c000000004E1FC5360000000000003E4E
+t1310704950
+s15950
+
+N/Users/koke007/Desktop/BabyCry/babysleep.png
+c000000004E1FC5DA0000000000003A83
+t1310705114
+s14979
+
+N/Users/koke007/Desktop/BabyCry/background.jpg
+c000000004E1EF4F20000000000008955
+t1310651634
+s35157
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/BabyCryAppDelegate.o
+t1314111071
+s54876
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/BabyCryAppDelegate.o
+t1314111071
+s54876
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/MainViewController.o
+t1314111071
+s51716
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/MainViewController.o
+t1314111071
+s51716
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/SubViewController.o
+t1314111071
+s70040
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/SubViewController.o
+t1314111071
+s70040
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/View1.o
+t1314111071
+s45584
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/View1.o
+t1314111071
+s45584
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/main.o
+t1314111071
+s6432
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/main.o
+t1314111071
+s6432
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!
+t1314111071
+s35484
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!
+t1314111071
+s35484
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!.LinkFileList
+c000000004E53BE5E0000000000000273
+t1314111070
+s627
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!.LinkFileList
+c000000004E53BE5E0000000000000273
+t1314111070
+s627
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/BabyCryAppDelegate.o
+t1314111071
+s54796
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/BabyCryAppDelegate.o
+t1314111071
+s54796
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/MainViewController.o
+t1314111071
+s51604
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/MainViewController.o
+t1314111071
+s51604
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/SubViewController.o
+t1314111071
+s69156
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/SubViewController.o
+t1314111071
+s69156
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/View1.o
+t1314111071
+s45544
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/View1.o
+t1314111071
+s45544
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/main.o
+t1314111071
+s6416
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/main.o
+t1314111071
+s6416
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!
+t1314111071
+s35424
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!
+t1314111071
+s35424
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!.LinkFileList
+c000000004E53BE5E0000000000000273
+t1314111070
+s627
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!.LinkFileList
+c000000004E53BE5E0000000000000273
+t1314111070
+s627
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent
+t1314111163
+s615
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent
+t1314111163
+s615
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+t1314111164
+s1394
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+t1314111164
+s1394
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app.dSYM
+t1314111071
+s102
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app.dSYM
+t1314111071
+s102
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/Info.plist
+t1314111163
+s847
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/Info.plist
+t1314111163
+s847
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/MainViewController.nib
+t1314110996
+s2113
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/MainViewController.nib
+t1314110996
+s2113
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/MainWindow.nib
+t1314110996
+s1555
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/MainWindow.nib
+t1314110996
+s1555
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/PkgInfo
+t1314111163
+s8
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/PkgInfo
+t1314111163
+s8
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist
+t1314110995
+s485
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist
+t1314110995
+s485
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/SubViewController.nib
+t1314110997
+s3043
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/SubViewController.nib
+t1314110997
+s3043
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/View1.nib
+t1314110997
+s2691
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/View1.nib
+t1314110997
+s2691
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/baby.png
+t1314110997
+s17475
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/baby.png
+t1314110997
+s17475
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babycry.png
+t1314110996
+s15454
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babycry.png
+t1314110996
+s15454
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babysleep.png
+t1314110996
+s14583
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babysleep.png
+t1314110996
+s14583
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/background.jpg
+t1314110996
+s35157
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/background.jpg
+t1314110996
+s35157
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/button1.png
+t1314110996
+s22511
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/button1.png
+t1314110996
+s22511
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/clean.wav
+t1314110997
+s3641980
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/clean.wav
+t1314110997
+s3641980
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanoff.png
+t1314110996
+s8383
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanoff.png
+t1314110996
+s8383
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanon.png
+t1314110996
+s7922
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanon.png
+t1314110996
+s7922
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cloud.png
+t1314110996
+s1451
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cloud.png
+t1314110996
+s1451
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry1.png
+t1314110996
+s16505
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry1.png
+t1314110996
+s16505
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry2.png
+t1314110996
+s18162
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry2.png
+t1314110996
+s18162
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry3.png
+t1314110996
+s19817
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry3.png
+t1314110996
+s19817
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dry.wav
+t1314110997
+s3131548
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dry.wav
+t1314110997
+s3131548
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryoff.png
+t1314110996
+s8453
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryoff.png
+t1314110996
+s8453
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryon.png
+t1314110996
+s8122
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryon.png
+t1314110996
+s8122
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/duk.png
+t1314110997
+s8345
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/duk.png
+t1314110997
+s8345
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/embedded.mobileprovision
+t1314110999
+s7462
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/embedded.mobileprovision
+t1314110999
+s7462
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon114.png
+t1314110997
+s16594
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon114.png
+t1314110997
+s16594
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon57.png
+t1314110997
+s8219
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon57.png
+t1314110997
+s8219
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/pong.wav
+t1314110997
+s8520
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/pong.wav
+t1314110997
+s8520
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep1.mp3
+t1314110997
+s1684263
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep1.mp3
+t1314110997
+s1684263
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep1.png
+t1314110996
+s15601
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep1.png
+t1314110996
+s15601
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep2.mp3
+t1314110997
+s1553325
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep2.mp3
+t1314110997
+s1553325
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep2.png
+t1314110997
+s16520
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep2.png
+t1314110997
+s16520
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep3.mp3
+t1314110997
+s2220071
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep3.mp3
+t1314110997
+s2220071
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep3.png
+t1314110997
+s17748
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep3.png
+t1314110997
+s17748
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song1.png
+t1314110996
+s2422
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song1.png
+t1314110996
+s2422
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song2.png
+t1314110996
+s2412
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song2.png
+t1314110996
+s2412
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song3.png
+t1314110996
+s2386
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song3.png
+t1314110996
+s2386
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!
+t1314111071
+s90736
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!
+t1314111071
+s90736
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app.dSYM
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/Info.plist
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/MainViewController.nib
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/MainWindow.nib
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/PkgInfo
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/ResourceRules.plist
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/SubViewController.nib
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/View1.nib
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/baby.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/babycry.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/babysleep.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/background.jpg
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/button1.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/clean.wav
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cleanoff.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cleanon.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cloud.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cry1.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cry2.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cry3.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/dry.wav
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/dryoff.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/dryon.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/duk.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/icon114.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/icon57.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/pong.wav
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep1.mp3
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep1.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep2.mp3
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep2.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep3.mp3
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep3.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/song1.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/song2.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/song3.png
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/우리아기뚝
+t2
+s0
+
+N/Users/koke007/Desktop/BabyCry/button1.png
+c000000004E1FC5A50000000000004EA7
+t1310705061
+s20135
+
+N/Users/koke007/Desktop/BabyCry/clean.wav
+c000000004E5361A4000000000037927C
+t1314087332
+s3641980
+
+N/Users/koke007/Desktop/BabyCry/cleanoff.png
+c000000004E1FC61D0000000000001E7C
+t1310705181
+s7804
+
+N/Users/koke007/Desktop/BabyCry/cleanon.png
+c000000004E1FC6DA0000000000001DEA
+t1310705370
+s7658
+
+N/Users/koke007/Desktop/BabyCry/cloud.png
+c000000004E1FC7EA0000000000000594
+t1310705642
+s1428
+
+N/Users/koke007/Desktop/BabyCry/cry1.png
+c000000004E2029CA0000000000004509
+t1310730698
+s17673
+
+N/Users/koke007/Desktop/BabyCry/cry2.png
+c000000004E2029A60000000000004D04
+t1310730662
+s19716
+
+N/Users/koke007/Desktop/BabyCry/cry3.png
+c000000004E202978000000000000550C
+t1310730616
+s21772
+
+N/Users/koke007/Desktop/BabyCry/dry.wav
+c000000004E5361C600000000002FC89C
+t1314087366
+s3131548
+
+N/Users/koke007/Desktop/BabyCry/dryoff.png
+c000000004E1FC6C6000000000000209B
+t1310705350
+s8347
+
+N/Users/koke007/Desktop/BabyCry/dryon.png
+c000000004E1FC6A80000000000001ED9
+t1310705320
+s7897
+
+N/Users/koke007/Desktop/BabyCry/duk.png
+c000000004E53B88A0000000000001E88
+t1314109578
+s7816
+
+N/Users/koke007/Desktop/BabyCry/icon114.png
+c000000004E5366E30000000000003E60
+t1314088675
+s15968
+
+N/Users/koke007/Desktop/BabyCry/icon57.png
+c000000004E53BD3C0000000000001DAE
+t1314110780
+s7598
+
+N/Users/koke007/Desktop/BabyCry/main.m
+c000000004E1FBF6D0000000000000171
+t1310703469
+s369
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/pong.wav
+c000000004E5365C60000000000002148
+t1314088390
+s8520
+
+N/Users/koke007/Desktop/BabyCry/sleep1.mp3
+c000000003F1BAE88000000000019B327
+t1058778760
+s1684263
+
+N/Users/koke007/Desktop/BabyCry/sleep1.png
+c000000004E20292500000000000041F0
+t1310730533
+s16880
+
+N/Users/koke007/Desktop/BabyCry/sleep2.mp3
+c000000003F1BAF22000000000017B3AD
+t1058778914
+s1553325
+
+N/Users/koke007/Desktop/BabyCry/sleep2.png
+c000000004E20290C00000000000046D1
+t1310730508
+s18129
+
+N/Users/koke007/Desktop/BabyCry/sleep3.mp3
+c000000003F1BAD84000000000021E027
+t1058778500
+s2220071
+
+N/Users/koke007/Desktop/BabyCry/sleep3.png
+c000000004E2028EF0000000000004D2D
+t1310730479
+s19757
+
+N/Users/koke007/Desktop/BabyCry/song1.png
+c000000004E1FC67700000000000009EA
+t1310705271
+s2538
+
+N/Users/koke007/Desktop/BabyCry/song2.png
+c000000004E1FC65F00000000000009C2
+t1310705247
+s2498
+
+N/Users/koke007/Desktop/BabyCry/song3.png
+c000000004E1FC644000000000000098C
+t1310705220
+s2444
+
+N/Users/koke007/Library/MobileDevice/Provisioning Profiles/B63B921A-5B58-4A10-8DEA-193AFB7305A3.mobileprovision
+c000000004E52896A0000000000001D26
+t1314031978
+s7462
+
+N/var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch.gch
+t1314110998
+s10446552
+
+N/var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch.gch
+t1314110998
+s9983704
+
+NBabyCry-Info.plist
+c000000004E53BEBA00000000000003AC
+t1314111162
+s940
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335804097#335804097#0(0"0(0#1#0"8683727488#0"0#
+
+CCodeSign /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+s335803963.735616
+e335803964.010853
+r1
+xCodeSign
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+o/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app: replacing existing signature
+lSLF07#2@68"CodeSign build/Debug-iphoneos/우리아기뚝!.app335803963#335803964#0(121"/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app: replacing existing signature0(0#0#90"/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app8600097696#724"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: sung jun kim (U638PTBS75)" --resource-rules=/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist --entitlements /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app0#
+
+CCodeSign /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+s335804097.511113
+e335804097.840298
+r1
+xCodeSign
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+o/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app: replacing existing signature
+lSLF07#2@68"CodeSign build/Debug-iphoneos/우리아기뚝!.app335804097#335804097#0(121"/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app: replacing existing signature0(0#0#90"/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app8660398816#724"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: sung jun kim (U638PTBS75)" --resource-rules=/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist --entitlements /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app0#
+
+CCodeSign /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335803870.957132
+e335803871.054642
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/BabyCryAppDelegate.o
+x/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m335803870#335803871#0(0"0(0#0#59"/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m8604088288#1969"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv6 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/BabyCryAppDelegate.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335803871.020936
+e335803871.206786
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/MainViewController.o
+x/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m335803871#335803871#0(0"0(0#0#59"/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m8602924480#1969"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv6 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335803871.054749
+e335803871.302213
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/SubViewController.o
+x/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m335803871#335803871#0(0"0(0#0#58"/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m8667528992#1967"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv6 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/SubViewController.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335803871.206889
+e335803871.275614
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/View1.o
+x/Users/koke007/Desktop/BabyCry/View1.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/koke007/Desktop/BabyCry/View1.m335803871#335803871#0(0"0(0#0#38"/Users/koke007/Desktop/BabyCry/View1.m8633969376#1935"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv6 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/View1.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/View1.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/main.o /Users/koke007/Desktop/BabyCry/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/main.o /Users/koke007/Desktop/BabyCry/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s335803870.955779
+e335803871.020824
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/main.o
+x/Users/koke007/Desktop/BabyCry/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/koke007/Desktop/BabyCry/main.m335803870#335803871#0(0"0(0#0#37"/Users/koke007/Desktop/BabyCry/main.m8605490496#1933"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv6 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/main.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335803871.331638
+e335803871.454632
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/BabyCryAppDelegate.o
+x/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m335803871#335803871#0(0"0(0#0#59"/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m8618545568#1969"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv7 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/BabyCryAppDelegate.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335803871.336353
+e335803871.524166
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/MainViewController.o
+x/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m335803871#335803871#0(0"0(0#0#59"/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m8616513440#1969"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv7 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335803871.454736
+e335803871.645023
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/SubViewController.o
+x/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m335803871#335803871#0(0"0(0#0#58"/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m8663270368#1967"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv7 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/SubViewController.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335803871.524265
+e335803871.594687
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/View1.o
+x/Users/koke007/Desktop/BabyCry/View1.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/koke007/Desktop/BabyCry/View1.m335803871#335803871#0(0"0(0#0#38"/Users/koke007/Desktop/BabyCry/View1.m8650158720#1935"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv7 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/View1.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/View1.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/main.o /Users/koke007/Desktop/BabyCry/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s335803871.275723
+e335803871.331518
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/main.o
+x/Users/koke007/Desktop/BabyCry/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/koke007/Desktop/BabyCry/main.m335803871#335803871#0(0"0(0#0#37"/Users/koke007/Desktop/BabyCry/main.m8631991776#1933"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -I/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources/armv7 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/main.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/main.o /Users/koke007/Desktop/BabyCry/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib
+r0
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib
+r0
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/MainWindow.xib
+r0
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/View1.xib
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/baby.png baby.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/baby.png baby.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babycry.png babycry.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babycry.png babycry.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babysleep.png babysleep.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/babysleep.png babysleep.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/button1.png button1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/button1.png button1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanoff.png cleanoff.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanoff.png cleanoff.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanon.png cleanon.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cleanon.png cleanon.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cloud.png cloud.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cloud.png cloud.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry1.png cry1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry1.png cry1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry2.png cry2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry2.png cry2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry3.png cry3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/cry3.png cry3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryoff.png dryoff.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryoff.png dryoff.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryon.png dryon.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/dryon.png dryon.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/duk.png duk.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/duk.png duk.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon114.png icon114.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon114.png icon114.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon57.png icon57.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/icon57.png icon57.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep1.png sleep1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep1.png sleep1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep2.png sleep2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep2.png sleep2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep3.png sleep3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/sleep3.png sleep3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song1.png song1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song1.png song1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song2.png song2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song2.png song2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song3.png song3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/song3.png song3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/baby.png baby.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/babycry.png babycry.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/babysleep.png babysleep.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/button1.png button1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cleanoff.png cleanoff.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cleanon.png cleanon.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cloud.png cloud.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cry1.png cry1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cry2.png cry2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/cry3.png cry3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/dryoff.png dryoff.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/dryon.png dryon.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/duk.png duk.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/icon114.png icon114.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/icon57.png icon57.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep1.png sleep1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep2.png sleep2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/sleep3.png sleep3.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/song1.png song1.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/song2.png song2.png
+r0
+
+CCopyPNGFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/song3.png song3.png
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/background.jpg background.jpg
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/background.jpg background.jpg
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/clean.wav clean.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/clean.wav clean.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/dry.wav dry.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/dry.wav dry.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/pong.wav pong.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/pong.wav pong.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep1.mp3 sleep1.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep1.mp3 sleep1.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep2.mp3 sleep2.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep2.mp3 sleep2.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep3.mp3 sleep3.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝!.app/sleep3.mp3 sleep3.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/background.jpg background.jpg
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/clean.wav clean.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/dry.wav dry.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/pong.wav pong.wav
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/sleep1.mp3 sleep1.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/sleep2.mp3 sleep2.mp3
+r0
+
+CCpResource build/Debug-iphoneos/우리아기뚝.app/sleep3.mp3 sleep3.mp3
+r0
+
+CCreateUniversalBinary /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝! normal "armv6 armv7"
+s335803871.675951
+e335803871.679283
+r1
+xCreateUniversalBinary
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!
+xnormal
+xarmv6 armv7
+lSLF07#2@137"CreateUniversalBinary build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝! normal "armv6 armv7"335803871#335803871#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/armv6 armv78616481312#648"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝! /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝! -output /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!0#
+
+CCreateUniversalBinary /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝! normal "armv6 armv7"
+r0
+
+CCreateUniversalBinary /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/우리아기뚝 normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!
+s335803871.679368
+e335803871.713482
+r1
+xGenerateDSYMFile
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app.dSYM
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!
+lSLF07#2@176"GenerateDSYMFile build/Debug-iphoneos/우리아기뚝!.app.dSYM build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!335803871#335803871#0(0"0(0#0#125"/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!8606762880#419"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝! -o /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app.dSYM0#
+
+CGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/우리아기뚝!
+r0
+
+CGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/우리아기뚝
+r0
+
+CLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝 normal armv6
+r0
+
+CLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝! normal armv6
+s335803871.302310
+e335803871.336244
+r1
+xLd
+x/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!
+xnormal
+xarmv6
+lSLF07#2@167"Link /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!335803871#335803871#0(0"0(0#0#0"8629347904#997"    cd /Users/koke007/Desktop/BabyCry    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -filelist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -framework AudioToolbox -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝!0#
+
+CLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv6/우리아기뚝! normal armv6
+r0
+
+CLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝 normal armv7
+r0
+
+CLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝! normal armv7
+r0
+
+CLd /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝! normal armv7
+s335803871.645126
+e335803871.675848
+r1
+xLd
+x/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!
+xnormal
+xarmv7
+lSLF07#2@167"Link /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!335803871#335803871#0(0"0(0#0#0"8618454432#997"    cd /Users/koke007/Desktop/BabyCry    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -F/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos -filelist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -framework AudioToolbox -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/Objects-normal/armv7/우리아기뚝!0#
+
+CProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/Info.plist BabyCry-Info.plist
+s335803963.628308
+e335803963.700084
+r1
+xProcessInfoPlistFile
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/Info.plist
+xBabyCry-Info.plist
+lSLF07#2@26"Process BabyCry-Info.plist335803963#335803963#0(0"0(0#0#49"/Users/koke007/Desktop/BabyCry/BabyCry-Info.plist8636357152#611"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BabyCry-Info.plist -genpkginfo /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/ResourceRules.plist -o /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/Info.plist BabyCry-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/Info.plist BabyCry-Info.plist
+r0
+
+CProcessPCH /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-etgyluzhijsrsgdaghoixwkxxuvf/BabyCry_Prefix.pch.gch BabyCry_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-flrzpyomxoojjvbqovegpyveuiax/BabyCry_Prefix.pch.gch BabyCry_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/koke007/Library/MobileDevice/Provisioning Profiles/B63B921A-5B58-4A10-8DEA-193AFB7305A3.mobileprovision" /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/koke007/Library/MobileDevice/Provisioning Profiles/B63B921A-5B58-4A10-8DEA-193AFB7305A3.mobileprovision" /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging "/Users/koke007/Library/MobileDevice/Provisioning Profiles/B63B921A-5B58-4A10-8DEA-193AFB7305A3.mobileprovision" /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app/embedded.mobileprovision
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent
+s335803963.706535
+e335803963.735545
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent
+lSLF07#2@229"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent335803963#335803963#0(0"0(0#0#147"/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent8631951552#470"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝!.xcent0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphoneos/우리아기뚝!.build/우리아기뚝.xcent
+r0
+
+CTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+r0
+
+CTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+s335803963.702770
+e335803963.706448
+r1
+xTouch
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app
+lSLF07#2@96"Touch /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app335803963#335803963#0(0"0(0#0#0"8632473056#275"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝!.app0#
+
+CTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphoneos/우리아기뚝.app
+r0
+

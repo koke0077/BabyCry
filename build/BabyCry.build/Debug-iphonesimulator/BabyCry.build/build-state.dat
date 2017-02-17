@@ -1,0 +1,1855 @@
+TBabyCry
+v7
+r0
+t352396382.661451
+cCheck dependencies
+cProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/Info.plist BabyCry-Info.plist
+cCompileXIB /Users/koke007/Desktop/BabyCry/MainWindow.xib
+cCompileXIB /Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/background.jpg background.jpg
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/babycry.png babycry.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/babysleep.png babysleep.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/button1.png button1.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/cleanoff.png cleanoff.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/cleanon.png cleanon.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/dryoff.png dryoff.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/dryon.png dryon.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/song1.png song1.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/song2.png song2.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/song3.png song3.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/cloud.png cloud.png
+cCompileXIB /Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry1.png cry1.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry2.png cry2.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry3.png cry3.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep1.png sleep1.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep2.png sleep2.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep3.png sleep3.png
+cCompileXIB /Users/koke007/Desktop/BabyCry/View1.xib
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/baby.png baby.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/clean.wav clean.wav
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/dry.wav dry.wav
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/icon114.png icon114.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/pong.wav pong.wav
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep1.mp3 sleep1.mp3
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep2.mp3 sleep2.mp3
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep3.mp3 sleep3.mp3
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/duk.png duk.png
+cCpResource build/Debug-iphonesimulator/우리아기뚝.app/icon57.png icon57.png
+cProcessPCH /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch.gch BabyCry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/main.o /Users/koke007/Desktop/BabyCry/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝 normal i386
+cGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝
+cTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/koke007/Desktop/BabyCry/BabyCry_Prefix.pch
+c000000004E1FBF6D00000000000000B7
+t1310703469
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.h
+c000000004E53305700000000000001F8
+t1314074711
+s504
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m
+c000000004E5330670000000000000BED
+t1314074727
+s3053
+i"BabyCryAppDelegate.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/MainViewController.h
+c000000004E5386220000000000000194
+t1314096674
+s404
+i<UIKit/UIKit.h>
+i"SubViewController.h"
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m
+c000000004E53862B0000000000000918
+t1314096683
+s2328
+i"MainViewController.h"
+i"BabyCryAppDelegate.h"
+i"View1.h"
+
+N/Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib
+c000000004E532F00000000000000691E
+t1314074368
+s26910
+
+N/Users/koke007/Desktop/BabyCry/Classes/SubViewController.h
+c000000004E587B080000000000000421
+t1314421512
+s1057
+i<UIKit/UIKit.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m
+c000000004E587D010000000000002B53
+t1314422017
+s11091
+i"SubViewController.h"
+i"BabyCryAppDelegate.h"
+
+N/Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib
+c000000004E587CAF00000000000094F9
+t1314421935
+s38137
+
+N/Users/koke007/Desktop/BabyCry/MainWindow.xib
+c000000004E1FC4670000000000005FD1
+t1310704743
+s24529
+
+N/Users/koke007/Desktop/BabyCry/View1.h
+c000000004E53549D00000000000000FA
+t1314083997
+s250
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/View1.m
+c000000004E5331DC0000000000000734
+t1314075100
+s1844
+i"View1.h"
+i"BabyCryAppDelegate.h"
+
+N/Users/koke007/Desktop/BabyCry/View1.xib
+c000000004E539E5700000000000066A1
+t1314102871
+s26273
+
+N/Users/koke007/Desktop/BabyCry/baby.png
+c000000004E53277300000000000044A7
+t1314072435
+s17575
+
+N/Users/koke007/Desktop/BabyCry/babycry.jpg
+c000000004E1EF36E00000000000048C6
+t1310651246
+s18630
+
+N/Users/koke007/Desktop/BabyCry/babycry.png
+c000000004E1FC5360000000000003E4E
+t1310704950
+s15950
+
+N/Users/koke007/Desktop/BabyCry/babysleep.jpg
+c000000004E1EF3EA0000000000004154
+t1310651370
+s16724
+
+N/Users/koke007/Desktop/BabyCry/babysleep.png
+c000000004E1FC5DA0000000000003A83
+t1310705114
+s14979
+
+N/Users/koke007/Desktop/BabyCry/background.jpg
+c000000004E1EF4F20000000000008955
+t1310651634
+s35157
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/BabyCry.LinkFileList
+c000000004E532E810000000000000264
+t1314074241
+s612
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/BabyCryAppDelegate.o
+t1326852106
+s55656
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/MainViewController.o
+t1326852106
+s52148
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/SubViewController.o
+t1326852106
+s71712
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/View1.o
+t1326852106
+s45644
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/main.o
+t1326852106
+s6284
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/우리아기뚝.LinkFileList
+c000000004E58769B0000000000000264
+t1314420379
+s612
+
+N/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/우리아기뚝.LinkFileList
+c000000004E58769B0000000000000264
+t1314420379
+s612
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app
+t1314110204
+s1564
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app.dSYM
+t1314110204
+s102
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry
+t1314110204
+s35488
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/Info.plist
+t1314096814
+s623
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/MainViewController.nib
+t1314074372
+s2112
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/MainWindow.nib
+t1310704745
+s1555
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/PkgInfo
+t1314096814
+s8
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/SubViewController.nib
+t1314110145
+s3038
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/View1.nib
+t1314102876
+s2689
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/baby.png
+t1314074242
+s17575
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/babycry.jpg
+t1310703874
+s18630
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/babycry.png
+t1310705742
+s15950
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/babysleep.jpg
+t1310703874
+s16724
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/babysleep.png
+t1310705742
+s14979
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/background.jpg
+t1310703874
+s35157
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/button1.jpg
+t1310703874
+s28437
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/button1.png
+t1310705742
+s20135
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/clean.wav
+t1314088854
+s3641980
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cleanoff.jpg
+t1310703874
+s7121
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cleanoff.png
+t1310705743
+s7804
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cleanon.jpg
+t1310703874
+s6672
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cleanon.png
+t1310705743
+s7658
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cloud.png
+t1310705743
+s1428
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cry1.png
+t1310731227
+s17673
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cry2.png
+t1310731227
+s19716
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/cry3.png
+t1310731227
+s21772
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/dry.wav
+t1314088854
+s3131548
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/dryoff.jpg
+t1310703874
+s7259
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/dryoff.png
+t1310705743
+s8347
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/dryon.jpg
+t1310703874
+s6802
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/dryon.png
+t1310705743
+s7897
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/duk.png
+t1314109787
+s7816
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/icon114.png
+t1314088853
+s15968
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/pong.wav
+t1314088853
+s8520
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/sleep1.mp3
+t1314107999
+s1684263
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/sleep1.png
+t1310731227
+s16880
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/sleep2.mp3
+t1314107999
+s1553325
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/sleep2.png
+t1310731227
+s18129
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/sleep3.mp3
+t1314107999
+s2220071
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/sleep3.png
+t1310731227
+s19757
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/song1.jpg
+t1310703874
+s3456
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/song1.png
+t1310705743
+s2538
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/song2.jpg
+t1310703874
+s3592
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/song2.png
+t1310705743
+s2498
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/song3.jpg
+t1310703874
+s3354
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/song3.png
+t1310705743
+s2444
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app
+t1326852107
+s1258
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app
+t1326852107
+s1258
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app.dSYM
+t1326852107
+s102
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app.dSYM
+t1314421990
+s102
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/Info.plist
+t1326852102
+s651
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/Info.plist
+t1326852102
+s651
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/MainViewController.nib
+t1326852103
+s2113
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/MainViewController.nib
+t1314420380
+s2110
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/MainWindow.nib
+t1326852103
+s1555
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/MainWindow.nib
+t1326852103
+s1555
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/PkgInfo
+t1326852102
+s8
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/PkgInfo
+t1326852102
+s8
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/SubViewController.nib
+t1326852104
+s3019
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/SubViewController.nib
+t1314421940
+s3025
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/View1.nib
+t1326852104
+s2692
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/View1.nib
+t1314420382
+s2694
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/baby.png
+t1326852104
+s17575
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/baby.png
+t1326852104
+s17575
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/babycry.png
+t1326852103
+s15950
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/babycry.png
+t1326852103
+s15950
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/babysleep.png
+t1326852103
+s14979
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/babysleep.png
+t1326852103
+s14979
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/background.jpg
+t1326852103
+s35157
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/background.jpg
+t1314420380
+s35157
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/button1.png
+t1326852103
+s20135
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/button1.png
+t1326852103
+s20135
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/clean.wav
+t1326852104
+s3641980
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/clean.wav
+t1314420382
+s3641980
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cleanoff.png
+t1326852103
+s7804
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cleanoff.png
+t1326852103
+s7804
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cleanon.png
+t1326852103
+s7658
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cleanon.png
+t1314420380
+s7658
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cloud.png
+t1326852103
+s1428
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cloud.png
+t1314420380
+s1428
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cry1.png
+t1326852103
+s17673
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cry1.png
+t1314420380
+s17673
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cry2.png
+t1326852103
+s19716
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cry2.png
+t1314420380
+s19716
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cry3.png
+t1326852103
+s21772
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/cry3.png
+t1314420380
+s21772
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/dry.wav
+t1326852104
+s3131548
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/dry.wav
+t1326852104
+s3131548
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/dryoff.png
+t1326852103
+s8347
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/dryoff.png
+t1314420380
+s8347
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/dryon.png
+t1326852103
+s7897
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/dryon.png
+t1314420380
+s7897
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/duk.png
+t1326852104
+s7816
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/duk.png
+t1314420381
+s7816
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/icon114.png
+t1326852104
+s15968
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/icon114.png
+t1326852104
+s15968
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/icon57.png
+t1326852104
+s7598
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/icon57.png
+t1314420381
+s7598
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/pong.wav
+t1326852104
+s8520
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/pong.wav
+t1326852104
+s8520
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep1.mp3
+t1326852104
+s1684263
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep1.mp3
+t1314420382
+s1684263
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep1.png
+t1326852103
+s16880
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep1.png
+t1314420380
+s16880
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep2.mp3
+t1326852104
+s1553325
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep2.mp3
+t1314420382
+s1553325
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep2.png
+t1326852103
+s18129
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep2.png
+t1314420380
+s18129
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep3.mp3
+t1326852104
+s2220071
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep3.mp3
+t1314420382
+s2220071
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep3.png
+t1326852103
+s19757
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/sleep3.png
+t1314420380
+s19757
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/song1.png
+t1326852103
+s2538
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/song1.png
+t1326852103
+s2538
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/song2.png
+t1326852103
+s2498
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/song2.png
+t1326852103
+s2498
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/song3.png
+t1326852103
+s2444
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/song3.png
+t1326852103
+s2444
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝
+t1326852106
+s35488
+
+N/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝
+t1314421990
+s35488
+
+N/Users/koke007/Desktop/BabyCry/button1.jpg
+c000000004E1EF2140000000000006F15
+t1310650900
+s28437
+
+N/Users/koke007/Desktop/BabyCry/button1.png
+c000000004E1FC5A50000000000004EA7
+t1310705061
+s20135
+
+N/Users/koke007/Desktop/BabyCry/clean.wav
+c000000004E5361A4000000000037927C
+t1314087332
+s3641980
+
+N/Users/koke007/Desktop/BabyCry/cleanoff.jpg
+c000000004E1EF2960000000000001BD1
+t1310651030
+s7121
+
+N/Users/koke007/Desktop/BabyCry/cleanoff.png
+c000000004E1FC61D0000000000001E7C
+t1310705181
+s7804
+
+N/Users/koke007/Desktop/BabyCry/cleanon.jpg
+c000000004E1EF27C0000000000001A10
+t1310651004
+s6672
+
+N/Users/koke007/Desktop/BabyCry/cleanon.png
+c000000004E1FC6DA0000000000001DEA
+t1310705370
+s7658
+
+N/Users/koke007/Desktop/BabyCry/cloud.png
+c000000004E1FC7EA0000000000000594
+t1310705642
+s1428
+
+N/Users/koke007/Desktop/BabyCry/cry1.png
+c000000004E2029CA0000000000004509
+t1310730698
+s17673
+
+N/Users/koke007/Desktop/BabyCry/cry2.png
+c000000004E2029A60000000000004D04
+t1310730662
+s19716
+
+N/Users/koke007/Desktop/BabyCry/cry3.png
+c000000004E202978000000000000550C
+t1310730616
+s21772
+
+N/Users/koke007/Desktop/BabyCry/dry.wav
+c000000004E5361C600000000002FC89C
+t1314087366
+s3131548
+
+N/Users/koke007/Desktop/BabyCry/dryoff.jpg
+c000000004E1EF2600000000000001C5B
+t1310650976
+s7259
+
+N/Users/koke007/Desktop/BabyCry/dryoff.png
+c000000004E1FC6C6000000000000209B
+t1310705350
+s8347
+
+N/Users/koke007/Desktop/BabyCry/dryon.jpg
+c000000004E1EF2420000000000001A92
+t1310650946
+s6802
+
+N/Users/koke007/Desktop/BabyCry/dryon.png
+c000000004E1FC6A80000000000001ED9
+t1310705320
+s7897
+
+N/Users/koke007/Desktop/BabyCry/duk.png
+c000000004E53B88A0000000000001E88
+t1314109578
+s7816
+
+N/Users/koke007/Desktop/BabyCry/icon114.png
+c000000004E5366E30000000000003E60
+t1314088675
+s15968
+
+N/Users/koke007/Desktop/BabyCry/icon57.png
+c000000004E53BD3C0000000000001DAE
+t1314110780
+s7598
+
+N/Users/koke007/Desktop/BabyCry/main.m
+c000000004E1FBF6D0000000000000171
+t1310703469
+s369
+i<UIKit/UIKit.h>
+
+N/Users/koke007/Desktop/BabyCry/pong.wav
+c000000004E5365C60000000000002148
+t1314088390
+s8520
+
+N/Users/koke007/Desktop/BabyCry/sleep1.mp3
+c000000003F1BAE88000000000019B327
+t1058778760
+s1684263
+
+N/Users/koke007/Desktop/BabyCry/sleep1.png
+c000000004E20292500000000000041F0
+t1310730533
+s16880
+
+N/Users/koke007/Desktop/BabyCry/sleep2.mp3
+c000000003F1BAF22000000000017B3AD
+t1058778914
+s1553325
+
+N/Users/koke007/Desktop/BabyCry/sleep2.png
+c000000004E20290C00000000000046D1
+t1310730508
+s18129
+
+N/Users/koke007/Desktop/BabyCry/sleep3.mp3
+c000000003F1BAD84000000000021E027
+t1058778500
+s2220071
+
+N/Users/koke007/Desktop/BabyCry/sleep3.png
+c000000004E2028EF0000000000004D2D
+t1310730479
+s19757
+
+N/Users/koke007/Desktop/BabyCry/song1.jpg
+c000000004E1EF2AE0000000000000D80
+t1310651054
+s3456
+
+N/Users/koke007/Desktop/BabyCry/song1.png
+c000000004E1FC67700000000000009EA
+t1310705271
+s2538
+
+N/Users/koke007/Desktop/BabyCry/song2.jpg
+c000000004E1EF2C20000000000000E08
+t1310651074
+s3592
+
+N/Users/koke007/Desktop/BabyCry/song2.png
+c000000004E1FC65F00000000000009C2
+t1310705247
+s2498
+
+N/Users/koke007/Desktop/BabyCry/song3.jpg
+c000000004E1EF2D40000000000000D1A
+t1310651092
+s3354
+
+N/Users/koke007/Desktop/BabyCry/song3.png
+c000000004E1FC644000000000000098C
+t1310705220
+s2444
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004CC1222F0000000000000A23
+t1287725615
+s2595
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-fxtetrycmkbkpgcndfvitahhflsy/BabyCry_Prefix.pch.gch
+t1314420383
+s15453392
+
+N/var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch.gch
+t1326852106
+s15453392
+
+NBabyCry-Info.plist
+c000000004E53DC6B00000000000003AC
+t1314118763
+s940
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies352396382#352396382#0(0"0(0#1#0"8619254688#0"0#
+
+CCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/BabyCryAppDelegate.o /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348544906.280917
+e348544906.383982
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/BabyCryAppDelegate.o
+x/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m348544906#348544906#0(0"0(0#0#59"/Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m8609211200#1954"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -I/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources/i386 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/BabyCryAppDelegate.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/BabyCryAppDelegate.o0#
+
+CCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/MainViewController.o /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348544906.365441
+e348544906.544238
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/MainViewController.o
+x/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m348544906#348544906#0(0"0(0#0#59"/Users/koke007/Desktop/BabyCry/Classes/MainViewController.m8612469952#1954"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -I/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources/i386 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/MainViewController.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/SubViewController.o /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348544906.384086
+e348544906.647306
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/SubViewController.o
+x/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m348544906#348544906#0(0"0(0#0#58"/Users/koke007/Desktop/BabyCry/Classes/SubViewController.m8618345600#1952"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -I/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources/i386 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/Classes/SubViewController.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/SubViewController.o0#
+
+CCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/View1.o /Users/koke007/Desktop/BabyCry/View1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348544906.544491
+e348544906.622238
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/View1.o
+x/Users/koke007/Desktop/BabyCry/View1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/koke007/Desktop/BabyCry/View1.m348544906#348544906#0(0"0(0#0#38"/Users/koke007/Desktop/BabyCry/View1.m8617735648#1920"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -I/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources/i386 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/View1.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/View1.o0#
+
+CCompileC build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/main.o /Users/koke007/Desktop/BabyCry/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s348544906.279655
+e348544906.365348
+r1
+xCompileC
+xbuild/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/main.o
+x/Users/koke007/Desktop/BabyCry/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/koke007/Desktop/BabyCry/main.m348544906#348544906#0(0"0(0#0#37"/Users/koke007/Desktop/BabyCry/main.m8608997408#1918"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -I/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources/i386 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources -include /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch -c /Users/koke007/Desktop/BabyCry/main.m -o /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib
+s348544902.966195
+e348544903.449389
+r1
+xCompileXIB
+x/Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib
+lSLF07#2@41"CompileXIB Classes/MainViewController.xib348544902#348544903#0(0"0(0#0#61"/Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib8612673120#584"    cd /Users/koke007/Desktop/BabyCry    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/MainViewController.nib /Users/koke007/Desktop/BabyCry/Classes/MainViewController.xib --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib
+s348544903.507050
+e348544904.266180
+r1
+xCompileXIB
+x/Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib
+lSLF07#2@40"CompileXIB Classes/SubViewController.xib348544903#348544904#0(0"0(0#0#60"/Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib8617550496#582"    cd /Users/koke007/Desktop/BabyCry    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/SubViewController.nib /Users/koke007/Desktop/BabyCry/Classes/SubViewController.xib --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/MainWindow.xib
+s348544902.965544
+e348544903.444035
+r1
+xCompileXIB
+x/Users/koke007/Desktop/BabyCry/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib348544902#348544903#0(0"0(0#0#45"/Users/koke007/Desktop/BabyCry/MainWindow.xib8612791776#560"    cd /Users/koke007/Desktop/BabyCry    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/MainWindow.nib /Users/koke007/Desktop/BabyCry/MainWindow.xib --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/koke007/Desktop/BabyCry/View1.xib
+s348544903.553785
+e348544904.324413
+r1
+xCompileXIB
+x/Users/koke007/Desktop/BabyCry/View1.xib
+lSLF07#2@20"CompileXIB View1.xib348544903#348544904#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/View1.xib8613808896#550"    cd /Users/koke007/Desktop/BabyCry    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/View1.nib /Users/koke007/Desktop/BabyCry/View1.xib --sdk /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/baby.png baby.png
+s335767042.126476
+e335767042.148204
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/baby.png
+xbaby.png
+lSLF07#2@13"Copy baby.png335767042#335767042#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/baby.png8617852416#442"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/baby.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/babycry.jpg babycry.jpg
+s332396674.788863
+e332396674.820909
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/babycry.jpg
+xbabycry.jpg
+lSLF07#2@16"Copy babycry.jpg332396674#332396674#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/babycry.jpg8603469760#445"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/babycry.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/babycry.png babycry.png
+s332398542.977006
+e332398543.017974
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/babycry.png
+xbabycry.png
+lSLF07#2@16"Copy babycry.png332398542#332398543#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/babycry.png8619982272#445"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/babycry.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/babysleep.jpg babysleep.jpg
+s332396674.789553
+e332396674.825289
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/babysleep.jpg
+xbabysleep.jpg
+lSLF07#2@18"Copy babysleep.jpg332396674#332396674#0(0"0(0#0#44"/Users/koke007/Desktop/BabyCry/babysleep.jpg8607244800#447"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/babysleep.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/babysleep.png babysleep.png
+s332398542.977689
+e332398543.018097
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/babysleep.png
+xbabysleep.png
+lSLF07#2@18"Copy babysleep.png332398542#332398543#0(0"0(0#0#44"/Users/koke007/Desktop/BabyCry/babysleep.png8619613760#447"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/babysleep.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/background.jpg background.jpg
+s332396674.790119
+e332396674.826058
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/background.jpg
+xbackground.jpg
+lSLF07#2@19"Copy background.jpg332396674#332396674#0(0"0(0#0#45"/Users/koke007/Desktop/BabyCry/background.jpg8603911200#448"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/background.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/button1.jpg button1.jpg
+s332396674.790736
+e332396674.822799
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/button1.jpg
+xbutton1.jpg
+lSLF07#2@16"Copy button1.jpg332396674#332396674#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/button1.jpg8602996320#445"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/button1.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/button1.png button1.png
+s332398542.978345
+e332398543.018202
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/button1.png
+xbutton1.png
+lSLF07#2@16"Copy button1.png332398542#332398543#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/button1.png8619142144#445"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/button1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/clean.wav clean.wav
+s335781653.518147
+e335781654.349142
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/clean.wav
+xclean.wav
+lSLF07#2@14"Copy clean.wav335781653#335781654#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/clean.wav27584964333797424#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/clean.wav /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cleanoff.jpg cleanoff.jpg
+s332396674.791391
+e332396674.816894
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cleanoff.jpg
+xcleanoff.jpg
+lSLF07#2@17"Copy cleanoff.jpg332396674#332396674#0(0"0(0#0#43"/Users/koke007/Desktop/BabyCry/cleanoff.jpg8601547584#446"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cleanoff.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cleanoff.png cleanoff.png
+s332398542.989327
+e332398543.018308
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cleanoff.png
+xcleanoff.png
+lSLF07#2@17"Copy cleanoff.png332398542#332398543#0(0"0(0#0#43"/Users/koke007/Desktop/BabyCry/cleanoff.png8618605056#446"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cleanoff.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cleanon.jpg cleanon.jpg
+s332396674.792516
+e332396674.825510
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cleanon.jpg
+xcleanon.jpg
+lSLF07#2@16"Copy cleanon.jpg332396674#332396674#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/cleanon.jpg8611041600#445"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cleanon.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cleanon.png cleanon.png
+s332398542.996982
+e332398543.018414
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cleanon.png
+xcleanon.png
+lSLF07#2@16"Copy cleanon.png332398542#332398543#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/cleanon.png8618462656#445"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cleanon.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cloud.png cloud.png
+s332398543.020585
+e332398543.026111
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cloud.png
+xcloud.png
+lSLF07#2@14"Copy cloud.png332398543#332398543#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/cloud.png8610525440#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cloud.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cry1.png cry1.png
+s332424027.725674
+e332424027.768466
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cry1.png
+xcry1.png
+lSLF07#2@13"Copy cry1.png332424027#332424027#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/cry1.png8610392800#442"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cry1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cry2.png cry2.png
+s332424027.732199
+e332424027.768598
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cry2.png
+xcry2.png
+lSLF07#2@13"Copy cry2.png332424027#332424027#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/cry2.png8610157920#442"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cry2.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/cry3.png cry3.png
+s332424027.733276
+e332424027.768702
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/cry3.png
+xcry3.png
+lSLF07#2@13"Copy cry3.png332424027#332424027#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/cry3.png8612902976#442"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cry3.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/dry.wav dry.wav
+s335781653.550312
+e335781654.317750
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/dry.wav
+xdry.wav
+lSLF07#2@12"Copy dry.wav335781653#335781654#0(0"0(0#0#38"/Users/koke007/Desktop/BabyCry/dry.wav8611471776#441"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dry.wav /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/dryoff.jpg dryoff.jpg
+s332396674.793273
+e332396674.822915
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/dryoff.jpg
+xdryoff.jpg
+lSLF07#2@15"Copy dryoff.jpg332396674#332396674#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/dryoff.jpg8607456160#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dryoff.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/dryoff.png dryoff.png
+s332398542.998105
+e332398543.018517
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/dryoff.png
+xdryoff.png
+lSLF07#2@15"Copy dryoff.png332398542#332398543#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/dryoff.png8618234784#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dryoff.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/dryon.jpg dryon.jpg
+s332396674.793840
+e332396674.828778
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/dryon.jpg
+xdryon.jpg
+lSLF07#2@14"Copy dryon.jpg332396674#332396674#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/dryon.jpg8604816384#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dryon.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/dryon.png dryon.png
+s332398543.009752
+e332398543.018664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/dryon.png
+xdryon.png
+lSLF07#2@14"Copy dryon.png332398543#332398543#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/dryon.png8618016032#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dryon.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/duk.png duk.png
+s335802587.222338
+e335802587.239211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/duk.png
+xduk.png
+lSLF07#2@12"Copy duk.png335802587#335802587#0(0"0(0#0#38"/Users/koke007/Desktop/BabyCry/duk.png8669221568#441"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/duk.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/icon114.png icon114.png
+s335781653.552673
+e335781653.591456
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/icon114.png
+xicon114.png
+lSLF07#2@16"Copy icon114.png335781653#335781653#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/icon114.png8611131616#445"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/icon114.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/pong.wav pong.wav
+s335781653.551617
+e335781653.591304
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/pong.wav
+xpong.wav
+lSLF07#2@13"Copy pong.wav335781653#335781653#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/pong.wav8611249696#442"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/pong.wav /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/sleep1.mp3 sleep1.mp3
+s335800798.777626
+e335800799.165370
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/sleep1.mp3
+xsleep1.mp3
+lSLF07#2@15"Copy sleep1.mp3335800798#335800799#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep1.mp38663140768#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep1.mp3 /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/sleep1.png sleep1.png
+s332424027.735150
+e332424027.768803
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/sleep1.png
+xsleep1.png
+lSLF07#2@15"Copy sleep1.png332424027#332424027#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep1.png8612403776#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/sleep2.mp3 sleep2.mp3
+s335800798.778380
+e335800799.162238
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/sleep2.mp3
+xsleep2.mp3
+lSLF07#2@15"Copy sleep2.mp3335800798#335800799#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep2.mp38663266976#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep2.mp3 /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/sleep2.png sleep2.png
+s332424027.736988
+e332424027.771862
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/sleep2.png
+xsleep2.png
+lSLF07#2@15"Copy sleep2.png332424027#332424027#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep2.png8610834400#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep2.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/sleep3.mp3 sleep3.mp3
+s335800799.122042
+e335800799.160978
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/sleep3.mp3
+xsleep3.mp3
+lSLF07#2@15"Copy sleep3.mp3335800799#335800799#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep3.mp38605463936#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep3.mp3 /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/sleep3.png sleep3.png
+s332424027.738775
+e332424027.772079
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/sleep3.png
+xsleep3.png
+lSLF07#2@15"Copy sleep3.png332424027#332424027#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep3.png8612783200#444"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep3.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/song1.jpg song1.jpg
+s332396674.794384
+e332396674.826656
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/song1.jpg
+xsong1.jpg
+lSLF07#2@14"Copy song1.jpg332396674#332396674#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song1.jpg8604336608#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song1.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/song1.png song1.png
+s332398543.012299
+e332398543.021732
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/song1.png
+xsong1.png
+lSLF07#2@14"Copy song1.png332398543#332398543#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song1.png8617491456#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/song2.jpg song2.jpg
+s332396674.816999
+e332396674.831140
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/song2.jpg
+xsong2.jpg
+lSLF07#2@14"Copy song2.jpg332396674#332396674#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song2.jpg8610610784#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song2.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/song2.png song2.png
+s332398543.014261
+e332398543.028937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/song2.png
+xsong2.png
+lSLF07#2@14"Copy song2.png332398543#332398543#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song2.png8617055136#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song2.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/song3.jpg song3.jpg
+s332396674.820996
+e332396674.833211
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/song3.jpg
+xsong3.jpg
+lSLF07#2@14"Copy song3.jpg332396674#332396674#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song3.jpg8609535424#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song3.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/BabyCry.app/song3.png song3.png
+s332398543.018739
+e332398543.025971
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BabyCry.app/song3.png
+xsong3.png
+lSLF07#2@14"Copy song3.png332398543#332398543#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song3.png8610767200#443"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song3.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/baby.png baby.png
+s348544904.266277
+e348544904.322999
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/baby.png
+xbaby.png
+lSLF07#2@13"Copy baby.png348544904#348544904#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/baby.png8616634144#459"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/baby.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/baby.png baby.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/babycry.png babycry.png
+s348544903.444843
+e348544903.515312
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/babycry.png
+xbabycry.png
+lSLF07#2@16"Copy babycry.png348544903#348544903#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/babycry.png8614749888#462"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/babycry.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/babycry.png babycry.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/babysleep.png babysleep.png
+s348544903.445439
+e348544903.503908
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/babysleep.png
+xbabysleep.png
+lSLF07#2@18"Copy babysleep.png348544903#348544903#0(0"0(0#0#44"/Users/koke007/Desktop/BabyCry/babysleep.png8613528160#464"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/babysleep.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/babysleep.png babysleep.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/background.jpg background.jpg
+s348544903.444127
+e348544903.513748
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/background.jpg
+xbackground.jpg
+lSLF07#2@19"Copy background.jpg348544903#348544903#0(0"0(0#0#45"/Users/koke007/Desktop/BabyCry/background.jpg8616519424#465"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/background.jpg /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/background.jpg background.jpg
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/button1.png button1.png
+s348544903.446005
+e348544903.505011
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/button1.png
+xbutton1.png
+lSLF07#2@16"Copy button1.png348544903#348544903#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/button1.png8612436864#462"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/button1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/button1.png button1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/clean.wav clean.wav
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/clean.wav clean.wav
+s336113181.062799
+e336113182.683058
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/clean.wav
+xclean.wav
+lSLF07#2@14"Copy clean.wav336113181#336113182#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/clean.wav8622993664#469"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/clean.wav /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cleanoff.png cleanoff.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cleanoff.png cleanoff.png
+s336113180.353510
+e336113180.464304
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/cleanoff.png
+xcleanoff.png
+lSLF07#2@17"Copy cleanoff.png336113180#336113180#0(0"0(0#0#43"/Users/koke007/Desktop/BabyCry/cleanoff.png8624112736#472"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cleanoff.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cleanon.png cleanon.png
+s348544903.447096
+e348544903.506981
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/cleanon.png
+xcleanon.png
+lSLF07#2@16"Copy cleanon.png348544903#348544903#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/cleanon.png8617586496#462"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cleanon.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cleanon.png cleanon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cloud.png cloud.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cloud.png cloud.png
+s336113180.457325
+e336113180.482674
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/cloud.png
+xcloud.png
+lSLF07#2@14"Copy cloud.png336113180#336113180#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/cloud.png8621816640#469"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cloud.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry1.png cry1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry1.png cry1.png
+s336113180.482759
+e336113180.522415
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/cry1.png
+xcry1.png
+lSLF07#2@13"Copy cry1.png336113180#336113180#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/cry1.png8615263488#468"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cry1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry2.png cry2.png
+s348544903.546230
+e348544903.597084
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/cry2.png
+xcry2.png
+lSLF07#2@13"Copy cry2.png348544903#348544903#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/cry2.png8616414080#459"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cry2.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry2.png cry2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry3.png cry3.png
+s348544903.546945
+e348544903.593232
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/cry3.png
+xcry3.png
+lSLF07#2@13"Copy cry3.png348544903#348544903#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/cry3.png8615029472#459"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/cry3.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/cry3.png cry3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/dry.wav dry.wav
+s348544904.267630
+e348544904.777291
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/dry.wav
+xdry.wav
+lSLF07#2@12"Copy dry.wav348544904#348544904#0(0"0(0#0#38"/Users/koke007/Desktop/BabyCry/dry.wav8613537952#458"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dry.wav /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/dry.wav dry.wav
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/dryoff.png dryoff.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/dryoff.png dryoff.png
+s336113180.357064
+e336113180.464556
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/dryoff.png
+xdryoff.png
+lSLF07#2@15"Copy dryoff.png336113180#336113180#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/dryoff.png8623236736#470"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dryoff.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/dryon.png dryon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/dryon.png dryon.png
+s336113180.358570
+e336113180.464678
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/dryon.png
+xdryon.png
+lSLF07#2@14"Copy dryon.png336113180#336113180#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/dryon.png8623009952#469"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/dryon.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/duk.png duk.png
+s348544904.277338
+e348544904.384796
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/duk.png
+xduk.png
+lSLF07#2@12"Copy duk.png348544904#348544904#0(0"0(0#0#38"/Users/koke007/Desktop/BabyCry/duk.png8616216160#458"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/duk.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/duk.png duk.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/icon114.png icon114.png
+s348544904.268904
+e348544904.373106
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/icon114.png
+xicon114.png
+lSLF07#2@16"Copy icon114.png348544904#348544904#0(0"0(0#0#42"/Users/koke007/Desktop/BabyCry/icon114.png8610593472#462"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/icon114.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/icon114.png icon114.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/icon57.png icon57.png
+s348544904.324499
+e348544904.356323
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/icon57.png
+xicon57.png
+lSLF07#2@15"Copy icon57.png348544904#348544904#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/icon57.png8614656480#461"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/icon57.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/icon57.png icon57.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/pong.wav pong.wav
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/pong.wav pong.wav
+s336113181.064643
+e336113181.186440
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/pong.wav
+xpong.wav
+lSLF07#2@13"Copy pong.wav336113181#336113181#0(0"0(0#0#39"/Users/koke007/Desktop/BabyCry/pong.wav8620641216#468"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/pong.wav /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep1.mp3 sleep1.mp3
+s348544904.272221
+e348544904.817488
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/sleep1.mp3
+xsleep1.mp3
+lSLF07#2@15"Copy sleep1.mp3348544904#348544904#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep1.mp38617194784#461"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep1.mp3 /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep1.mp3 sleep1.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep1.png sleep1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep1.png sleep1.png
+s336113180.498449
+e336113180.522670
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/sleep1.png
+xsleep1.png
+lSLF07#2@15"Copy sleep1.png336113180#336113180#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep1.png8609559456#470"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep2.mp3 sleep2.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep2.mp3 sleep2.mp3
+s336113181.067592
+e336113182.580940
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/sleep2.mp3
+xsleep2.mp3
+lSLF07#2@15"Copy sleep2.mp3336113181#336113182#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep2.mp38614804704#470"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep2.mp3 /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep2.png sleep2.png
+s348544903.550317
+e348544903.598129
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/sleep2.png
+xsleep2.png
+lSLF07#2@15"Copy sleep2.png348544903#348544903#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep2.png8614420928#461"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep2.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep2.png sleep2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep3.mp3 sleep3.mp3
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep3.mp3 sleep3.mp3
+s336113181.069849
+e336113182.800321
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/sleep3.mp3
+xsleep3.mp3
+lSLF07#2@15"Copy sleep3.mp3336113181#336113182#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep3.mp38613158144#470"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep3.mp3 /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep3.png sleep3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/sleep3.png sleep3.png
+s336113180.511023
+e336113180.523408
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/sleep3.png
+xsleep3.png
+lSLF07#2@15"Copy sleep3.png336113180#336113180#0(0"0(0#0#41"/Users/koke007/Desktop/BabyCry/sleep3.png8606891232#470"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/sleep3.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/song1.png song1.png
+s348544903.448712
+e348544903.509633
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/song1.png
+xsong1.png
+lSLF07#2@14"Copy song1.png348544903#348544903#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song1.png8612452096#460"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song1.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/song1.png song1.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/song2.png song2.png
+s348544903.449454
+e348544903.514690
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/song2.png
+xsong2.png
+lSLF07#2@14"Copy song2.png348544903#348544903#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song2.png8616461024#460"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song2.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/song2.png song2.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/song3.png song3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/우리아기뚝.app/song3.png song3.png
+s336113180.456229
+e336113180.466291
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/우리아기뚝.app/song3.png
+xsong3.png
+lSLF07#2@14"Copy song3.png336113180#336113180#0(0"0(0#0#40"/Users/koke007/Desktop/BabyCry/song3.png8622235936#469"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/koke007/Desktop/BabyCry/song3.png /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry
+s335803004.081597
+e335803004.104322
+r1
+xGenerateDSYMFile
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app.dSYM
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/BabyCry.app.dSYM build/Debug-iphonesimulator/BabyCry.app/BabyCry335803004#335803004#0(0"0(0#0#78"/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry8676721024#359"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry -o /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app.dSYM0#
+
+CGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝
+r0
+
+CGenerateDSYMFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app.dSYM /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝
+s336114790.570048
+e336114790.591216
+r1
+xGenerateDSYMFile
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app.dSYM
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝
+lSLF07#2@187"GenerateDSYMFile build/Debug-iphonesimulator/우리아기뚝.app.dSYM build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝336114790#336114790#0(0"0(0#0#130"/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝8624348160#437"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝 -o /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app.dSYM0#
+
+CLd /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry normal i386
+s335803004.023593
+e335803004.081484
+r1
+xLd
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry
+xnormal
+xi386
+lSLF07#2@83"Link /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry335803004#335803004#0(0"0(0#0#0"8665391200#930"    cd /Users/koke007/Desktop/BabyCry    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -filelist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/BabyCry.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -framework AudioToolbox -o /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/BabyCry0#
+
+CLd /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝 normal i386
+r0
+
+CLd /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝 normal i386
+s336114790.542966
+e336114790.569945
+r1
+xLd
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝
+xnormal
+xi386
+lSLF07#2@135"Link /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝336114790#336114790#0(0"0(0#0#0"8602586336#1008"    cd /Users/koke007/Desktop/BabyCry    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -filelist /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/Objects-normal/i386/우리아기뚝.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -framework AVFoundation -framework AudioToolbox -o /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/우리아기뚝0#
+
+CProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/Info.plist BabyCry-Info.plist
+s335789614.194362
+e335789614.206515
+r1
+xProcessInfoPlistFile
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/Info.plist
+xBabyCry-Info.plist
+lSLF07#2@26"Process BabyCry-Info.plist335789614#335789614#0(0"0(0#0#49"/Users/koke007/Desktop/BabyCry/BabyCry-Info.plist8667123424#455"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BabyCry-Info.plist -genpkginfo /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/Info.plist BabyCry-Info.plist
+s348544902.930021
+e348544902.965466
+r1
+xProcessInfoPlistFile
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/Info.plist
+xBabyCry-Info.plist
+lSLF07#2@26"Process BabyCry-Info.plist348544902#348544902#0(0"0(0#0#49"/Users/koke007/Desktop/BabyCry/BabyCry-Info.plist8613911104#501"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BabyCry-Info.plist -genpkginfo /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app/Info.plist BabyCry-Info.plist
+r0
+
+CProcessPCH /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-fxtetrycmkbkpgcndfvitahhflsy/BabyCry_Prefix.pch.gch BabyCry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s336113182.803032
+e336113183.711875
+r1
+xProcessPCH
+x/var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-fxtetrycmkbkpgcndfvitahhflsy/BabyCry_Prefix.pch.gch
+xBabyCry_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile BabyCry_Prefix.pch336113182#336113183#0(0"0(0#0#49"/Users/koke007/Desktop/BabyCry/BabyCry_Prefix.pch8616961728#1830"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -I/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources/i386 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources -c /Users/koke007/Desktop/BabyCry/BabyCry_Prefix.pch -o /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-fxtetrycmkbkpgcndfvitahhflsy/BabyCry_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch.gch BabyCry_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s348544904.976651
+e348544906.279464
+r1
+xProcessPCH
+x/var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch.gch
+xBabyCry_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile BabyCry_Prefix.pch348544904#348544906#0(0"0(0#0#49"/Users/koke007/Desktop/BabyCry/BabyCry_Prefix.pch8612436480#1818"    cd /Users/koke007/Desktop/BabyCry    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-generated-files.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-own-target-headers.hmap -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-all-target-headers.hmap -iquote /Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/우리아기뚝-project-headers.hmap -F/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator -I/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/include -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources/i386 -I/Users/koke007/Desktop/BabyCry/build/BabyCry.build/Debug-iphonesimulator/BabyCry.build/DerivedSources -c /Users/koke007/Desktop/BabyCry/BabyCry_Prefix.pch -o /var/folders/o9/o9UPkAnYGbS3t-SV3amfXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BabyCry_Prefix-gxbrtsvxlfsiviciiosczzrjlzlv/BabyCry_Prefix.pch.gch0#
+
+CTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app
+s335803004.104407
+e335803004.107125
+r1
+xTouch
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app
+lSLF07#2@76"Touch /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app335803004#335803004#0(0"0(0#0#0"8663911648#262"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/BabyCry.app0#
+
+CTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app
+s348544907.019934
+e348544907.024107
+r1
+xTouch
+x/Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app
+lSLF07#2@102"Touch /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app348544907#348544907#0(0"0(0#0#0"8612270432#282"    cd /Users/koke007/Desktop/BabyCry    setenv PATH "/Xcode3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app0#
+
+CTouch /Users/koke007/Desktop/BabyCry/build/Debug-iphonesimulator/우리아기뚝.app
+r0
+
