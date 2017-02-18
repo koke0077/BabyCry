@@ -16,9 +16,14 @@
 	NSArray *imageFiles2;
 	UISlider *vol;
     float slide_value;
+    NSTimer *timer1;
+    NSTimer *timer2;
+    NSTimer *timer3;
+    NSTimer *timer4;
 }
 @property (nonatomic, retain) AVAudioPlayer *player;
 @property (nonatomic, retain) IBOutlet UIImageView *imageView;
+@property (weak, nonatomic) IBOutlet UISegmentedControl *segment;
 @property (nonatomic, retain) NSArray *imageFiles2;
 @property (nonatomic, retain) NSArray *imageFiles1;
 @property (nonatomic, retain) IBOutlet UISlider *vol;

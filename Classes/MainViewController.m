@@ -9,7 +9,7 @@
 
 #import "MainViewController.h"
 #import "BabyCryAppDelegate.h"
-#import "View1.h"
+
 
 @implementation MainViewController
 
@@ -19,13 +19,13 @@
 }
 
 -(IBAction) btnInfo:(id)sender{
-	BabyCryAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
-	View1 *v1 = [[View1 alloc] initWithNibName:@"View1" bundle:nil];
+	BabyCryAppDelegate *delegate = (BabyCryAppDelegate *)[[UIApplication sharedApplication] delegate];
+	self.view1 = [[View1 alloc] initWithNibName:@"View1" bundle:nil];
     CGRect screenRect = [[UIScreen mainScreen] bounds];
     CGFloat screenWidth = screenRect.size.width;
     CGFloat screenHeight = screenRect.size.height;
-	v1.view.frame = CGRectMake(0, 20, screenWidth, screenHeight-20);
-	[self.view addSubview:v1.view];
+	self.view1.view.frame = CGRectMake(0, 20, screenWidth, screenHeight-20);
+	[self.view addSubview:self.view1.view];
 	[delegate animation];
 }
 

@@ -17,6 +17,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     MainViewController *m_view = [[MainViewController alloc]
                                   initWithNibName:@"MainViewController" bundle:nil];
+    
+    [self.window setRootViewController:nv];
     nv = [[UINavigationController alloc]initWithRootViewController:m_view];
     [window addSubview:nv.view];
     [self.window makeKeyAndVisible];

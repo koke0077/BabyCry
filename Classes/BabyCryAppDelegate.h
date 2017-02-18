@@ -8,11 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+
 @interface BabyCryAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
 	UINavigationController *nv;
 }
-
 @property (nonatomic, retain) IBOutlet UIWindow *window;
 @property (nonatomic, retain) IBOutlet UINavigationController *nv;
 -(void)animation;

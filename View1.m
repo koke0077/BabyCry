@@ -13,7 +13,7 @@
 
 
 -(IBAction) btnBack:(id)sender{
-	BabyCryAppDelegate *delegate = [[UIApplication sharedApplication] delegate];
+	BabyCryAppDelegate *delegate = (BabyCryAppDelegate *)[[UIApplication sharedApplication] delegate];
 	[self.view removeFromSuperview];
     [delegate animation2];
 }

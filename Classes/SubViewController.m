@@ -17,6 +17,8 @@
     [[UIApplication sharedApplication] beginReceivingRemoteControlEvents];
     [self baby_cryFace];
     slide_value = 0.2;
+    
+    self.segment.selectedSegmentIndex = 0;
 }
 
 - (BOOL)canBecomeFirstResponder {
@@ -80,36 +82,84 @@
 }
 
 - (IBAction)seg_action:(UISegmentedControl *)sender {
+    
+//    NSLog(@"segSelected = %d", (int)sender.selectedSegmentIndex);
+}
+
+-(void)detect_seg{
+    
+    if(self.segment.selectedSegmentIndex == 0){
+        
+        [NSTimer scheduledTimerWithTimeInterval:300 target:self selector:@selector(first_time:) userInfo:nil repeats:NO];
+        [timer1 fire];
+        
+    }else if(self.segment.selectedSegmentIndex == 1){
+        [NSTimer scheduledTimerWithTimeInterval:420 target:self selector:@selector(first_time:) userInfo:nil repeats:NO];
+        
+        [timer2 fire];
+    }else if(self.segment.selectedSegmentIndex == 2){
+        [NSTimer scheduledTimerWithTimeInterval:600 target:self selector:@selector(first_time:) userInfo:nil repeats:NO];
+        
+        [timer3 fire];
+    }else{
+        [NSTimer scheduledTimerWithTimeInterval:1800 target:self selector:@selector(first_time:) userInfo:nil repeats:NO];
+        
+        [timer4 fire];
+    }
+}
+
+-(void)first_time:(NSTimer *)timer{
+    [player stop];
+    [self baby_cryFace];
+    [timer invalidate];//NSTimer reset
 }
 
 -(IBAction)dryon:(id)sender{
     [self sound_start:@"dry" expire:@"wav"];
     [self baby_face];
+    [self detect_seg];
 }
 
 -(IBAction)cleanon:(id)sender{
     [self sound_start:@"clean" expire:@"wav"];
     [self baby_face];
+    
+    [self detect_seg];
 }
 
 -(IBAction)btnStopAll:(id)sender{
 	[player stop];
     [self baby_cryFace];
+    [self invalid];
+}
+
+-(void)invalid{
+    [timer1 invalidate];
+    [timer2 invalidate];
+    [timer3 invalidate];
+    [timer4 invalidate];
+
 }
 
 -(IBAction)song1Btn:(id)sender{
     [self sound_start:@"sleep1" expire:@"mp3"];
     [self baby_face];
+    
+    [self detect_seg];
 }
 
 -(IBAction)song2Btn:(id)sender{
     [self sound_start:@"sleep2" expire:@"mp3"];
     [self baby_face];
+    
+    [self detect_seg];
 }
 
 -(IBAction)song3Btn:(id)sender{
     [self sound_start:@"sleep3" expire:@"mp3"];
     [self baby_face];
+    
+    [self detect_seg];
 }
 
 -(void) sound_start:(NSString *)sound_name expire:(NSString *)exp{
